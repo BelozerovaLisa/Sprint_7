@@ -1,0 +1,1 @@
+{"uuid": "ae689bca-ff98-4551-abfe-4ef6ad83d4f4", "children": ["e5c26abe-17cb-460f-aeed-cf6615d7250e"], "befores": [{"name": "prepare_data_order", "status": "passed", "steps": [{"name": "Создаем данные для заказа", "status": "passed", "start": 1736746574188, "stop": 1736746574188}], "start": 1736746574188, "stop": 1736746574188}], "start": 1736746574188, "stop": 1736746574376}
